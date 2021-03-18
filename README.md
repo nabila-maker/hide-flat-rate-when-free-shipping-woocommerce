@@ -1,0 +1,1 @@
+# hide-flat-rate-when-free-shipping-woocommerce
